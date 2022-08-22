@@ -1,15 +1,15 @@
 ---------------dataset params---------------
 
-propaganda_techniques_file: tools/data/propaganda-techniques-names-semeval2020task11.txt
-train_data_folder: datasets/train-articles
+propaganda_techniques_file: /Users/vhein/PycharmProjects/semeval2020_task11/tools/data/propaganda-techniques-names-semeval2020task11.txt
+train_data_folder: /Users/vhein/PycharmProjects/semeval2020_task11/datasets/train-articles
 #test_data_folder: datasets/train-articles
-test_data_folder: datasets/dev-articles
+test_data_folder: /Users/vhein/PycharmProjects/semeval2020_task11/datasets/dev-articles
 #test_data_folder: datasets/test/test-articles
-labels_path: datasets/train-task2-TC.labels
+labels_path: /Users/vhein/PycharmProjects/semeval2020_task11/datasets/train-task2-TC.labels
 #test_template_labels_path: results/mydev-task-TC.labelss
-test_template_labels_path: datasets/dev-task-TC-template.out
+test_template_labels_path: /Users/vhein/PycharmProjects/semeval2020_task11/datasets/dev-task-TC-template.out
 #test_template_labels_path: datasets/test/test-task-TC-template.out
-data_dir: cached_datasets/TC/
+data_dir: /Users/vhein/PycharmProjects/semeval2020_task11/cached_datasets/TC/
 train_file: train.tsv
 dev_file: dev.tsv
 #test_file: dev.tsv
