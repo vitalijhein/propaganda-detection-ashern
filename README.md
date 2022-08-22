@@ -107,3 +107,4 @@ If you find this repository helpful, feel free to cite our publication [Aschern 
     pages = "1462--1468"
 }
 ``` 
+# propaganda-detection-ashern
