@@ -1,5 +1,5 @@
 torch
-transformers
+transformers==2.3.0
 scipy
 numpy
 joblib
